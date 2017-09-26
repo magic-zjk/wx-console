@@ -1,5 +1,5 @@
-# vueAdmin-template
-vue-admin
+# wx-console
+
 #目录结构
 
 ├── build                      // 构建相关  
